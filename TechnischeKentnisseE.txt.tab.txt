@@ -1,0 +1,377 @@
+TA101 0,042 	A entspricht A 42⋅10-3 A. 
+TA102 0,00042 	A entspricht A 420.10-6 A. 
+TA103 100 mW entspricht 	A 10-1 W. 
+TA104 4 200 000 Hz entspricht 	A 4,2⋅106 Hz. 
+TA201 Welche Einheit wird für die elektrische Spannung verwendet? 	A Volt (V) 
+TA202 Welche Einheit wird für die elektrische La-dung verwendet? 	A Amperesekunde (As) 
+TA203 Welche Einheit wird für die elektrische Leis-tung verwendet? 	A Watt (W) 
+TA204 In welcher Einheit wird der elektrische Wi-derstand angegeben? 	A Ohm 
+TA205 Welche der nachfolgenden Antworten ent-hält nur Basiseinheiten nach dem internati-onalen Einheitensystem? 	A Ampere, Kelvin, Meter, Sekunde 
+TA206 0,22 µF sind 	A 220 nF. 
+TA207 3,75 MHz sind 	A 3750 kHz. 
+TA208 Welche Einheit wird für die Kapazität ver-wendet? 	A Farad (F) 
+TB101 Welche Gruppe enthält insgesamt die bes-ten gut leitenden Metalle? 	A Silber, Kupfer, Aluminium 
+TB102 Welches der genannten Metalle hat die bes-te elektrische Leitfähigkeit? 	A Silber 
+TB103 Welches der genannten Metalle hat die schlechteste elektrische Leitfähigkeit? 	A Zinn 
+TB104 Welche Gruppe von Materialien enthält nur Nichtleiter (Isolatoren)? 	A Epoxid, Polyethylen (PE), Polystyrol (PS) 
+TB105 Was verstehen Sie unter Halbleitermateria-lien? 	A Einige Stoffe (z.B. Silizium, Germanium) sind in reinem Zustand bei Raumtemperatur gute Iso-latoren. Durch geringfügige Zusätze von geeig-neten anderen Stoffen oder bei hohen Tempe-raturen werden sie jedoch zu Leitern.  
+TB201 Welche Spannung zeigt der Spannungs-messer in folgender Schaltung?  	A 0 V 
+TB202 Folgende Schaltung eines Akkus besteht aus Zellen von je 2 V. Jede Zelle kann 10 Ah Ladung liefern. Welche Daten hat der Akku?  	A 12 V / 10 Ah 
+TB203 Was versteht man unter „technischer Stromrichtung“ in der Elektrotechnik? 	A Man nimmt an, dass der Strom vom Pluspol zum Minuspol fließt. 
+TB204 Kann in folgender Schaltung von zwei glei-chen Spannungsquellen Strom fließen? Welche Begründung ist richtig?  	A Nein, weil kein geschlossener Stromkreis vor-handen ist. 
+TB205 Wie lange könnte man mit einem voll gela-denen Akku mit 55 Ah einen Amateurfunk-empfänger betreiben, der einen Strom von 0,8 	A aufnimmt? A 68 Stunden und 45 Minuten 
+TB301 Welche Einheit wird für die elektrische Feld-stärke verwendet? 	A Volt pro Meter (V/m) 
+TB302 Wie nennt man das Feld zwischen zwei pa-rallelen Kondensatorplatten bei Anschluss einer Gleichspannung?   	A Homogenes elektrisches Feld 
+TB303 Wie werden die mit X gekennzeichneten Feldlinien einer Vertikalantenne bezeichnet? 	A Elektrische Feldlinien 
+TB401 Welche Einheit wird für die magnetische Feldstärke verwendet? 	A Ampere pro Meter (A/m) 
+TB402 Wie nennt man das Feld im Innern einer langen Zylinderspule beim Fließen eines Gleichstroms?  	A Homogenes magnetisches Feld 
+TB403 Wenn Strom durch einen gestreckten Leiter fließt, entsteht ein 	A Magnetfeld aus konzentrischen Kreisen um den Leiter. 
+TB404 Wie werden die mit X gekennzeichneten Feldlinien einer Vertikalantenne bezeichnet?  	A Magnetische Feldlinien 
+TB405 Welcher der nachfolgenden Werkstoffe ist ein ferromagnetischer Stoff? 	A Eisen 
+TB501 Wodurch entsteht ein elektromagnetisches Feld?  Ein elektromagnetisches Feld entsteht, 	A wenn ein zeitlich schnell veränderlicher Strom durch einen elektrischen Leiter fließt, dessen Länge mindestens 1/100 der Wellenlänge ist. 
+TB502 Wie erfolgt die Ausbreitung einer elektro-magnetischen Welle?  Die Ausbreitung erfolgt 	A durch eine Wechselwirkung zwischen elektri-schem und magnetischem Feld. 
+TB503 Das folgende Bild zeigt die Feldlinien eines elektromagnetischen Feldes. Welche Polari-sation hat die skizzierte Wellenfront?   	A Horizontale Polarisation 
+TB504 Der Winkel zwischen den elektrischen und magnetischen Feldkomponenten eines  elektromagnetischen Feldes beträgt im Fernfeld 	A 90°. 
+TB505 Die Polarisation des Sendesignals in der Hauptstrahlrichtung dieser Richtantenne   ist 	A vertikal. 
+TB601 Welches ist die Einheit der Wellenlänge? 	A m 
+TB602 Welcher Wellenlänge λ entspricht die Fre-quenz 1,84 MHz? 	A 163 m 
+TB603 Welcher Wellenlänge λ entspricht die Fre-quenz 28,48 MHz? 	A 10,5 m 
+TB604 Eine Wellenlänge von 2,06 m entspricht einer Frequenz von 	A 145,631 MHz 
+TB605 Eine Wellenlänge von 80,0 m entspricht einer Frequenz von 	A 3,75 MHz 
+TB606 Welche Bezeichnung ist für eine Schwin-gung von 145 000 000 Perioden pro Sekunde richtig? 	A 145 MHz 
+TB607 Die Periodendauer von 50 µs entspricht einer Frequenz von 	A 20 kHz 
+TB608 Den Frequenzbereich zwischen 30 und 300 MHz bezeichnet man als 	A VHF (very high frequency) 
+TB609 Das 70-cm-Band befindet sich im 	A UHF-Bereich. 
+TB610 Welche Frequenz hat die in diesem Oszil-logramm dargestellte Spannung?  	A 83,3 kHz 
+TB611 Welche Frequenz hat das in diesem Schirm-bild dargestellte Signal?  	A 8,33 MHz 
+TB612 Eine sinusförmige Wechselspannung hat einen Spitzenwert von 12 V. Wie groß ist der Effektivwert der Wechselspannung? 	A 8,5 V 
+TB613 Ein sinusförmiges Signal hat einen Effek-tivwert von 12 V. Wie groß ist der Spitzen-Spitzen-Wert? 	A 33,9 V 
+TB701 Welche Signalform sollte der Träger einer hochfrequenten Schwingung haben? 	A sinusförmig 
+TB702 Ein periodische Schwingung, die wie das folgende Signal aussieht, besteht  	A aus der Grundwelle mit ganzzahligen Vielfa-chen dieser Frequenz (Oberwellen). 
+TB801 Was ist der Unterschied zwischen AM und SSB? 	A AM hat einen Träger und zwei Seitenbänder, SS
+TB802 Was ist der Unterschied zwischen LSB und USB? 	A LS
+TB803 Welche Aussage über modulierte Signale ist richtig? 	A Bei FM ändert sich die Amplitude des Sende-signals bei Modulation nicht. 
+TB804 Was ist der Unterschied zwischen FSK und AFSK? 	A Bei FSK wird der Träger direkt und bei AFSK mit Hilfe des Audiosignals moduliert. 
+TB805 Wie groß ist die HF-Bandbreite, die bei der Übertragung eines SSB-Signals entsteht? 	A Sie entspricht genau der Bandbreite des NF-Signals. 
+TB806 Ein Träger von 3,65 MHz wird mit der NF-Frequenz von 2 kHz in SSB (LSB) moduliert. Welche Frequenz/Frequenzen treten im mo-dulierten HF-Signal hauptsächlich auf? 	A 3,648 MHz 
+TB901 Die Maßeinheit der elektrischen Leistung ist 	A Watt 
+TB902 Welcher der nachfolgenden Zusammenhän-ge ist richtig? 	A IRU ⋅=  
+TB903 Welche Spannung lässt einen Strom von 2 	A durch einen Widerstand von 50 Ohm flie-ßen? A 100 Volt 
+TB904 Welcher Widerstand ist erforderlich um einen Strom von 3 	A bei einer Spannung von 90 Volt fließen zu lassen? A 30 Ω 
+TB905 Eine Stromversorgung nimmt bei 230 V einen Strom von 0,63 	A auf. Welche elektri-sche Arbeit (Energie) wird bei einer Be-triebsdauer von 7 Stunden verbraucht? A 1,01 kWh 
+TB906 Eine Glühlampe hat einen Nennwert von 12 V und 48 W. Bei einer 12-V-Versorgung beträgt die Stromentnahme 	A 4 A. 
+TB907 Der Effektivwert der Spannung an einer künstlichen 50-Ω-Antenne wird mit 100 V gemessen. Die Leistung an der Last beträgt 	A 200 W. 
+TB908 Ein mit einer künstlichen 50-Ω-Antenne in Serie geschaltetes Amperemeter zeigt 2 	A an. Die Leistung in der Last beträgt A 200 W. 
+TB909 Ein Mobil-Transceiver (Sender-Empfänger) hat bei Sendebetrieb eine Leistungsauf-nahme von 100 Watt aus dem 12-V-Bordnetz des Kraftfahrzeuges. Wie groß ist die Stromaufnahme? 	A 8,33 A 
+TB910 Ein 100-Ω-Widerstand, an dem 10 V anlie-gen, muss mindestens eine Belastbarkeit haben von 	A 1 W. 
+TB911 Welche Belastbarkeit muss ein Vorwider-stand haben, an dem bei einem Strom von 50 m	A eine Spannung von 50 V abfallen soll? A 2,5 W 
+TC101 Die Farbringe gelb, violett und orange auf einem Widerstand mit 4 Farbringen bedeu-ten einen Widerstandswert von 	A 47 kΩ 
+TC102 Die Farbringe gelb, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von 	A 4,7 kΩ 
+TC103 Die Farbringe rot, violett und orange auf einem Widerstand mit 4 Farbringen bedeu-ten einen Widerstandswert von 	A 27 kΩ 
+TC104 Die Farbringe rot, violett und rot auf einem Widerstand mit 4 Farbringen bedeuten einen Widerstandswert von 	A 2,7 kΩ 
+TC105 Welches Bauteil hat folgendes Schaltzeichen?  	A NTC 
+TC106 Welches der folgenden Bauteile ist ein NTC?	A   C  
+TC107 Welches der folgenden Schaltsymbole stellt einen PTC-Widerstand dar? 	A  C  
+TC108 Ein Widerstand hat eine Toleranz von 10 %. Bei einem nominalen Widerstandswert von 5,6 kΩ liegt der tatsächliche Wert zwischen 	A 5040 und 6160 Ω. 
+TC109 Welche Bauart von Widerstand folgender Auswahl ist am besten für eine künstliche Antenne (Dummy Load) geeignet? 	A Ein Metalloxidwiderstand 
+TC110 Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 221? 	A 220 Ω 
+TC111 Welchen Wert hat ein SMD-Widerstand mit der Kennzeichnung 223? 	A 22 kΩ 
+TC201 Welche Aussage zur Kapazität eines Plat-tenkondensators ist richtig? 	A Je größer der Plattenabstand ist, desto kleiner ist die Kapazität. 
+TC202 Ein Bauelement, bei dem sich Platten auf einer isolierten Achse befinden, die zwi-schen fest stehende Platten hineingedreht werden können, nennt man 	A Drehkondensator. 
+TC203 Welche Kapazität hat neben-stehend abgebildeter Konden-sator? 	A 330 µF 
+TC204 Welche Kapazität hat neben-stehend abgebildeter Konden-sator? 	A 470 pF 
+TC205 Welche Kapazität hat neben-stehend abgebildeter Konden-sator? 	A 8,2 pF 
+TC206 Drei Kondensatoren mit den Kapazitäten C1 = 0,1 µF, C2 = 150 nF und C3 = 50000 pF wer-den parallel geschaltet. Wie groß ist die Gesamtkapazität? 	A 0,3 µF 
+TC207 Bei welchem der folgenden Bauformen von Kondensatoren muss beim Einbau auf die Polarität geachtet werden? 	A Elektrolytkondensator 
+TC208 Mit zunehmender Frequenz 	A sinkt der Wechselstromwiderstand von Kon-densatoren. 
+TC301 Wie ändert sich die Induktivität einer Spule von 12 µH, wenn die Windungszahl bei glei-cher Wickellänge verdoppelt wird?  	A Die Induktivität steigt auf 48 µH. 
+TC302 Wie ändert sich die Induktivität einer Spule von 12 µH, wenn die Wicklung auf dem Wi-ckelkörper bei gleicher Windungszahl auf die doppelte Länge auseinander gezogen wird?   	A Die Induktivität sinkt auf 6 µH. 
+TC303 Wie kann man die Induktivität einer Spule vergrößern? 	A Durch Stauchen der Spule (Verkürzen der Spulenlänge). 
+TC304 Das folgende Bild zeigt einen Kern, um den ein Kabel für den Bau einer Netzdrossel gewickelt ist. Der Kern sollte aus 	A Ferrit bestehen. 
+TC305 Schaltet man zwei Glühlampen gleichzeitig an eine Spannungsquelle, wobei eine Glüh-lampe zum Helligkeitsausgleich über einen Widerstand und die andere über eine Spule mit vielen Windungen und Eisenkern ange-schlossen ist,   so 	A leuchtet H1 zuerst. 
+TC306 Mit zunehmender Frequenz 	A steigt der Wechselstromwiderstand einer Spule.
+TC401 Ein Trafo liegt an 230 Volt und gibt 11,5 Volt ab. Seine Primärwicklung hat 600 Windun-gen. Wie groß ist seine Sekundärwindungs-zahl? 	A 30 Windungen 
+TC402 Ein Trafo liegt an 45 Volt und gibt 180 Volt ab. Seine Primärwicklung hat 150 Windun-gen. Wie groß ist seine Sekundärwindungs-zahl? 	A 600 Windungen 
+TC403 Die Primärspule eines Übertragers hat die fünffache Anzahl von Windungen der Se-kundärspule. Wie hoch ist die erwartete Sekundärspannung, wenn die Primärspule an eine 230-V-Stromversorgung ange-schlossen wird? 	A 46 Volt 
+TC501 P-dotiertes Halbleitermaterial ist solches, das mit einem zusätzlichen Stoff versehen wurde, der 	A weniger als vier Valenzelektronen enthält. 
+TC502 N-leitendes Halbleitermaterial ist gekenn-zeichnet durch 	A Überschuss an freien Elektronen. 
+TC503 Ein in Durchlassrichtung betriebener PN-Übergang ermöglicht 	A den Stromfluss von P nach N. 
+TC504 Eine in Sperrrichtung betriebene Diode hat 	A einen hohen Widerstand. 
+TC505 Die Auswahlantworten enthalten Silizium-Dioden mit unterschiedlichen Arbeitspunk-ten. Bei welcher Antwort befindet sich die Diode in leitendem Zustand? 	A 0,7 V  1,3 V  
+TC506 Die Auswahlantworten enthalten Silizium-Dioden mit unterschiedlichen Arbeitspunk-ten. Bei welcher Antwort befindet sich die Diode in leitendem Zustand? 	A -2 V  -2,6 V  
+TC507 Wie verhält sich die Kapazität einer Kapazi-tätsdiode (Varicap)? 	A Sie nimmt mit abnehmender Sperrspannung zu.
+TC508 Wozu dient folgende Schaltung?  Sie dient 	A zur Spannungsstabilisierung. 
+TC509 Wozu dient die folgende Schaltung?  Sie dient  	A als Leuchtanzeige. 
+TC601 Was versteht man unter Stromverstärkung beim Transistor? 	A Mit einem geringen Strom (Basisstrom) wird ein großer Strom (Kollektorstrom) gesteuert. 
+TC602 Das Verhältnis von Kollektorstrom zum Basisstrom eines Transistors liegt übli-cherweise im Bereich von 	A 10 zu 1  bis  900 zu 1. 
+TC603 Bei diesem Bauelement handelt es sich um einen  	A NPN-Transistor. 
+TC604 Bei diesem Bauelement handelt es sich um einen  	A PNP-Transistor. 
+TC605 Welche Kollektorspannungen haben NPN- und PNP-Transistoren? 	A NPN-Transistoren benötigen positive, PNP-Transistoren negative Kollektorspannungen. 
+TC606 Bei einem bipolaren Transistor in leitendem Zustand befindet sich die Emitter-Basis-Diode 	A in Durchlassrichtung. 
+TC607 Welche Transistortypen sind bipolare Tran-sistoren? 	A NPN- und PNP-Transistoren 
+TC608 Wie lauten die Bezeichnungen der An-schlüsse eines bipolaren Transistors? 	A Emitter, Basis, Kollektor 
+TC609 Ein bipolarer Transistor ist 	A stromgesteuert. 
+TC610 Wenn die Basisspannung eines NPN-Transistors gleich der Emitterspannung ist, 	A fließt kein Kollektorstrom. 
+TC611 Wie erfolgt die Steuerung des Stroms im Feldeffekttransistor (FET)? 	A Die Gatespannung steuert den Widerstand des Kanals zwischen Source und Drain. 
+TC612 Wie bezeichnet man die An-schlüsse des nebenstehen-den Transistors?  	A 1 ... Drain, 2 … Source,  3 … Gate. 
+TD101 Wie groß ist der Ersatzwiderstand der Ge-samtschaltung?   Gegeben: R1 = 500 Ω,  R2 = 1000 Ω und R3 = 1 kΩ 	A 1 kΩ 
+TD102 Wie groß ist der Ersatzwiderstand der Ge-samtschaltung?  Gegeben: R1 = 1 kΩ,  R2 = 2000 Ω und R3 = 2 kΩ 	A 2 kΩ 
+TD103 Wie groß ist der Ersatzwiderstand der Ge-samtschaltung?   Gegeben:  R1 = 500 Ω,  R2 = 500 Ω und R3 = 1 kΩ 	A 500 Ω 
+TD104 Wie groß ist der Ersatzwiderstand der Ge-samtschaltung?   Gegeben:  R1 = 500 Ω,  R2 = 1,5 kΩ und R3 = 2 kΩ 	A 1 kΩ 
+TD105 Welche Gesamtkapazität hat die folgende Schaltung?   Gegeben: C1 = 0,01 µF;  C2 = 5 nF,  C3 = 5000 pF 	A 5 nF 
+TD106 Welche Gesamtkapazität hat die folgende Schaltung?   Gegeben: C1 = 0,02 µF; C2 = 10 nF; C3 = 10000 pF 	A 10 nF 
+TD107 Welche Gesamtkapazität hat die folgende Schaltung?   Gegeben: C1 = 0,01 µF; C2 = 10 nF; C3 = 5000 pF 	A 10 nF 
+TD108 Die Gesamtspannung U an folgendem Spannungsteiler beträgt 12,2 V.  Die Widerstände haben die Werte R1 = 10 kΩ und R2 = 2,2 kΩ.  Wie groß ist die Teilspan-nung U2?   	A 2,20 V 
+TD109 Zwei Widerstände mit R1 = 20 Ω und  R2 = 30 Ω sind parallel geschaltet.  Wie groß ist der Ersatzwiderstand? 	A 12 Ω 
+TD110 Zwei Widerstände mit R1 = 100 Ω und R2 = 150 Ω sind parallel geschaltet.  Wie groß ist der Ersatzwiderstand? 	A 60 Ω 
+TD201 Der Impedanzfrequenz-gang in der Abbildung zeigt die Kennlinie 	A eines Serienschwingkreises. 
+TD202 Der im folgenden Bild dargestellte Impedanzfre-quenzgang ist typisch für 	A einen Parallelschwingkreis. 
+TD203 Welcher Schwingkreis passt zu dem neben der jeweiligen Schaltung dargestellten Ver-lauf des Scheinwiderstandes? 	A  
+TD204 Wie ändert sich die Resonanzfrequenz eines Schwingkreises, wenn 1. die Spule weniger Windungen erhält, 2. die Länge der Spule durch Zusammen-schieben der Drahtwicklung verringert wird, 3. ein Ferritkern in das Innere der Spule gebracht wird? 	A Die Resonanzfrequenz wird bei 1. größer und bei 2. und 3. kleiner. 
+TD205 Wie verhält sich ein Parallelschwingkreis bei der Resonanzfrequenz? 	A Wie ein hochohmiger Widerstand. 
+TD206 Was stellt die folgende Schaltung dar?   	A Hochpass 
+TD207 Was stellt die folgende Schaltung dar?  	A Sperrkreis 
+TD208 Was stellt die folgende Schaltung dar?  	A Tiefpass 
+TD209 Was stellt die folgende Schaltung dar?  	A Saugkreis 
+TD210 Welche der nachfolgenden Eigenschaften trifft auf einen Hochpass zu? 	A Frequenzen oberhalb der Grenzfrequenz wer-den durchgelassen. 
+TD301 Welche Eigenschaften sollten Strom- und Spannungsquellen aufweisen? 	A Spannungsquellen sollten einen möglichst niedrigen Innenwiderstand und Stromquellen einen möglichst hohen Innenwiderstand haben. 
+TD302 Die Leerlaufspannung einer Gleichspan-nungsquelle beträgt 13,5 V. Wenn die Span-nungsquelle einen Strom von 1 	A abgibt, sinkt die Klemmenspannung auf 12,4 V. Wie groß ist der Innenwiderstand der Span-nungsquelle? A 1,1 Ω 
+TD303 Die Leerlaufspannung einer Gleich-spannungsquelle beträgt 13,5 V. Wenn die Spannungsquelle einen Strom von 2 	A ab-gibt, sinkt die Klemmenspannung auf 13 V. Wie groß ist der Innenwiderstand der Span-nungsquelle? A 0,25 Ω 
+TD304 Berechnen Sie die Leerlaufausgangsspan-nung dieser Schaltung für ein Transformati-onsverhältnis von 5:1.  	A Zirka 65 Volt 
+TD305 Berechnen Sie die Leerlaufausgangsspan-nung dieser Schaltung für ein Transformati-onsverhältnis von 8:1.  	A Zirka 40 Volt 
+TD306 Welches ist der Hauptnachteil eines Schalt-netzteils gegenüber einem konventionellen Netzteil? 	A Ein Schaltnetzteil erzeugt Oberwellen seiner Taktfrequenz, die beim Empfang zu Störungen führen können. 
+TD401 In welcher der folgenden Zeilen werden nur Verstärker-Bauelemente genannt? 	A Transistor, MOSFET, Operationsverstärker, Röhre 
+TD402 Was versteht man in der Elektronik unter Verstärkung? Man spricht von Verstärkung, wenn 	A das Ausgangssignal gegenüber dem Eingangs-signal in der Leistung größer ist. 
+TD403 Was ist ein Operationsverstärker? 	A Operationsverstärker sind Gleichstrom gekop-pelte Verstärker mit sehr hohem Verstärkungs-faktor und großer Linearität. 
+TD404 Ein IC (integrated circuit) ist 	A eine komplexe Schaltung auf einem Halbleiter-kristallplättchen. 
+TD405 Worauf beruht die Verstärkerwirkung von Elektronenröhren? 	A Das von der Gitterspannung hervorgerufene elektrische Feld steuert den Anodenstrom. 
+TD501 Durch Modulation 	A werden Informationen auf einen oder mehrere Träger übertragen. 
+TD502 Welche Aussage zum Frequenzmodulator ist richtig? Durch das Informationssignal 	A wird die Frequenz des Trägers beeinflusst. Die Amplitude des Trägers bleibt dabei konstant. 
+TD503 Zur Aufbereitung des SSB-Signals müssen  	A der Träger und ein Seitenband unterdrückt oder ausgefiltert werden. 
+TD504 Wie kann ein SSB-Signal erzeugt werden? 	A Im Balancemodulator wird ein Zweiseitenband-Signal erzeugt. Das Seitenbandfilter selektiert ein Seitenband heraus. 
+TD601 Was verstehen Sie unter einem „Oszillator“?	A Es ist ein Schwingungserzeuger. 
+TD602 Was ist ein LC-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz 	A von einer Spule und einem Kondensator (LC-Schwingkreis) bestimmt wird. 
+TD603 Was ist ein Quarz-Oszillator? Es ist ein Schwingungserzeuger, wobei die Frequenz 	A durch einen hochstabilen Quarz bestimmt wird. 
+TD604 Wie verhält sich die Frequenz eines LC-Oszillators bei Temperaturanstieg, wenn die Kapazität des Schwingkreiskondensators mit dem Temperaturanstieg geringer wird? 	A Die Frequenz wird erhöht. 
+TD605 Im VFO eines Senders steigt die Induktivität der Oszillatorspule mit der Temperatur. Der Kondensator bleibt sehr stabil. Welche Aus-wirkungen hat dies bei steigender Tempera-tur? 	A Die VFO-Frequenz wandert nach unten. 
+TD606 Der Vorteil von Quarzoszillatoren gegenüber LC-Oszillatoren liegt darin, dass sie 	A eine bessere Frequenzstabilität aufweisen. 
+TE101 Wie unterscheidet sich SSB (J3E) von AM (A3E) in Bezug auf die Bandbreite? 	A Die Sendeart J3E beansprucht weniger als die halbe Bandbreite der Sendeart A3E. 
+TE102 Welches der nachfolgenden Modulations-verfahren hat die geringste Störanfälligkeit bei Funkanlagen in Kraftfahrzeugen? 	A FM 
+TE103 Das folgende Oszillogramm zeigt ein AM-Signal.   Der Modulationsgrad beträgt hier zirka 	A 50 %. 
+TE104 Das folgende Oszillogramm zeigt ein AM-Signal.   Der Modulationsgrad beträgt hier zirka 	A 45 %. 
+TE105 Das folgende Oszillogramm   zeigt 	A ein typisches Zweiton-SSB-Testsignal. 
+TE106 Das folgende Oszillogramm zeigt ein typi-sches Zweiton-SSB-Testsignal.   Bestimmen Sie den Modulationsgrad! 	A Man kann keinen Modulationsgrad bestimmen, da es keinen Träger gibt.  
+TE201 Wodurch wird bei Frequenzmodulation die Lautstärke-Information übertragen? 	A Durch die Größe der Trägerfrequenzauslen-kung. 
+TE202 FM hat gegenüber SSB den Vorteil der 	A geringeren Beeinflussung durch Störquellen. 
+TE203 Ein zu großer Hub eines FM-Senders führt dazu,  	A dass die HF-Bandbreite zu groß wird. 
+TE204 Größerer Frequenzhub führt bei einem FM-Sender zu  	A einer größeren HF-Bandbreite. 
+TE301 Welche HF-Bandbreite beansprucht ein 1200-Baud-Packet-Radio-AFSK-Signal? 	A 12 kHz  
+TE302 Welche HF-Bandbreite beansprucht ein 9600-Baud-FM-Packet-Radio-Signal? 	A 20 kHz  
+TE303 Welche NF-Zwischenträgerfrequenzen wer-den in der Regel in Packet Radio bei 1200 Baud benutzt? 	A 1200 / 2200 Hz 
+TE304 Was versteht man bei Packet Radio unter einem TNC (Terminal Network Controller)? Ein TNC  	A besteht aus einem Modem und dem Controller für die digitale Aufbereitung der Daten. 
+TE305 Was bedeutet im Prinzip „Packet Radio“? Die Daten werden 	A paketweise (stoßweise) gesendet.  
+TE306 Was versteht man unter 1k2-Packet-Radio? 	A Die Übertragung erfolgt mit 1200 Baud. 
+TE307 Welches ist eine gängige Übertragungsrate in Packet Radio? 	A 9600 Baud 
+TE308 Eine Packet-Radio-Mailbox ist 	A ein Rechnersystem bei dem Texte und Daten über Funk eingespeichert und abgerufen wer-den können. 
+TE309 Um RTTY-Betrieb durchzuführen benötigt man außer einem Transceiver beispielswei-se 	A einen PC mit Soundkarte und entsprechender Software. 
+TE310 Welcher Unterschied zwischen den Be-triebsarten ATV und SSTV ist richtig? 	A SSTV überträgt Standbilder, ATV bewegte Bilder. 
+TE311 Welches der folgenden digitalen Übertra-gungsverfahren hat die geringste Bandbrei-te? 	A PSK31 
+TE312 Wie heißt die Übertragungsart mit einem Übertragungskanal, bei der durch Umschal-tung abwechselnd in beide Richtungen ge-sendet werden kann? 	A Halbduplex 
+TF101 Eine hohe erste ZF vereinfacht die Filterung zur Vermeidung von 	A Spiegelfrequenzstörungen. 
+TF102 Eine hohe erste Zwischenfrequenz 	A ermöglicht bei großem Abstand zur Empfangs-frequenz eine hohe Spiegelfrequenzunterdrü-ckung. 
+TF103 Welche Aussage ist für einen Doppelsuper richtig? 	A Mit einer niedrigen zweiten ZF erreicht man leicht eine gute Trennschärfe. 
+TF104 Ein Empfänger hat eine ZF von 10,7 MHz und ist auf 28,5 MHz abgestimmt. Der Oszil-lator des Empfängers schwingt oberhalb der Empfangsfrequenz. Welche Frequenz hat die Spielfrequenz? 	A 49,9 MHz 
+TF105 Wodurch wird beim Überlagerungsempfän-ger die Spiegelfrequenzdämpfung be-stimmt? Sie wird vor allem bestimmt durch 	A die Höhe der ersten ZF. 
+TF106 Einem Mischer werden die Frequenzen 136 MHz und 145 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt? 	A 9 MHz und 281 MHz 
+TF107 Einem Mischer werden die Frequenzen 28 MHz und 38,7 MHz zugeführt. Welche Frequenzen werden beim Mischvorgang erzeugt? 	A 10,7 MHz und 66,7 MHz 
+TF108 Eine schmale Empfängerbandbreite führt im allgemeinen zu einer 	A hohen Trennschärfe. 
+TF109 Die Frequenzdifferenz zwischen dem HF-Nutzsignal und dem Spiegelsignal ent-spricht 	A dem zweifachen der ersten ZF. 
+TF110 Durch welchen Vorgang setzt ein Konverter einen Frequenzbereich für einen vorhande-nen Empfänger um? 	A Durch Mischung. 
+TF201 Um Schwankungen des NF-Ausgangs-signals durch Schwankungen des HF-Ein-gangssignals zu verringern, wird ein Emp-fänger mit 	A einer automatischen Verstärkungsregelung ausgestattet. 
+TF202 Bei Empfang eines sehr starken Signals verringert die AGC (automatic gain control) 	A die Verstärkung der HF- und ZF-Stufen. 
+TF203 Was bewirkt die AGC (automatic gain con-trol) bei einem starken Eingangssignal? 	A Sie reduziert die Verstärkung der HF-und ZF-Stufen. 
+TF204 Ein Doppelsuper hat eine erste ZF von 10,7 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 28 MHz sein.   Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen? 	A Der VFO muss bei 38,70 MHz und der CO bei 11,16 MHz schwingen. 
+TF205 Ein Doppelsuper hat eine erste ZF von 9 MHz und eine zweite ZF von 460 kHz. Die Empfangsfrequenz soll 21,1 MHz sein.   Welche Frequenzen sind für den VFO und den CO erforderlich, wenn die Oszillatoren oberhalb der Mischer-Eingangssignale schwingen sollen? 	A Der VFO muss bei 30,1 MHz und der CO bei 9,46 MHz schwingen. 
+TF301 In der folgenden Schaltung   können bei einer Empfangsfrequenz von 28,3 MHz und einer Oszillatorfrequenz von 39 MHz Spiegelfrequenzstörungen bei 	A 49,7 MHz auftreten. 
+TF302 Der Begrenzerverstärker eines FM-Empfängers ist ein Verstärker, 	A der sein Ausgangssignal ab einem bestimmten Eingangspegel begrenzt. 
+TF303 Welcher der folgenden als Bandpass ein-setzbaren Bauteile verfügt am ehesten über die geringste Bandbreite?  	A Ein Quarzkristall 
+TF401 Die Empfindlichkeit eines Empfängers be-zieht sich auf die 	A Fähigkeit des Empfängers, schwache Signale zu empfangen. 
+TF402 Welchen Vorteil bietet ein Überlagerungs-empfänger gegenüber einem Geradeaus-Empfänger? 	A Bessere Trennschärfe 
+TF403 Um wie viel S-Stufen müsste die S-Meter-Anzeige Ihres Empfängers steigen, wenn Ihr Partner die Sendeleistung von 10 Watt auf 40 Watt erhöht? 	A Um eine S-Stufe 
+TF404 Ein Funkamateur kommt laut S-Meter mit S7 an. Dann schaltet er seine Endstufe ein und bittet um einen erneuten Rapport. Das S-Meter zeigt S9+8dB. Um welchen Faktor müsste der Funkamateur seine Leistung erhöht haben? 	A 100-fach 
+TF405 Ein Funkamateur hat eine Endstufe, welche die Leistung verzehnfacht (von 10 auf 100 Watt). Ohne seine Endstufe zeigt Ihr S-Meter genau S8. Auf welchen Wert müsste die Anzeige Ihres S-Meters ansteigen, wenn er die Endstufe dazuschaltet? 	A S9+4d
+TF406 Wie groß ist der Unterschied von S4 nach S7 in dB? 	A 18 d
+TF407 Welche Baugruppe könnte in einem Emp-fänger gegebenenfalls dazu verwendet wer-den, um einen schmalen Frequenzbereich zu unterdrücken, in dem Störungen emp-fangen werden? 	A Notchfilter 
+TF408 Was bedeutet an einem Abstimmelement eines Empfängers die Abkürzung AGC? 	A Automatische Verstärkungsregelung 
+TF409 Welche Baugruppe könnte in einem Emp-fänger gegebenenfalls dazu verwendet wer-den, impulsförmige Störungen auszublen-den? 	A Noise Blanker 
+TG101 Wie kann die hochfrequente Ausgangsleis-tung eines SSB-Senders vermindert wer-den? 	A Durch die Verringerung der NF-Ansteuerung und/oder durch Einfügung eines Dämpfungs-gliedes zwischen Steuersender und Endstufe. 
+TG102 Welche der nachfolgenden Antworten trifft für die Wirkungsweise eines Transverters zu? 	A Ein Transverter setzt beim Empfangen z.B. ein 70-cm-Signal in das 10-m-Band und beim Sen-den das 10-m-Sendesignal auf das 70-cm-Band um. 
+TG103 Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist? 	A Leiser ins Mikrofon sprechen. 
+TG104 Was bewirkt in der Regel eine zu hohe Mik-rofonverstärkung bei einem SSB-Transcei-ver? 	A Splatter bei Stationen, die auf dem Nachbarka-nal arbeiten. 
+TG105 Was bewirkt eine zu geringe Mikrofonver-stärkung bei einem SSB-Transceiver? 	A geringe Ausgangsleistung 
+TG201 Wie heißt die Stufe in einem Sender, welche die Eigenschaft hat, leise Sprachsignale gegenüber den lauten etwas anzuheben? 	A Speech Processor 
+TG202 Welche Schaltung in einem Sender bewirkt, dass der Transceiver allein durch die Stim-me auf Sendung geschaltet werden kann? 	A VOX 
+TG203 Welche Anforderungen muss ein FM-Funk-gerät erfüllen, damit es für die Übertragung von Packet Radio mit 9600 Baud geeignet ist? 	A Es muss sende- und empfangsseitig den Fre-quenzbereich von 20 Hz bis 6 kHz möglichst linear übertragen können und die Zeit für die Sende-Empfangsumschaltung muss so kurz wie möglich sein z.B. < 10...100 ms. 
+TG301 Ein Sender mit 1 Watt Ausgangsleistung ist an eine Endstufe mit einer Verstärkung  von 10 dB angeschlossen. Wie groß ist der Aus-gangspegel der Endstufe? 	A 10 dBW 
+TG302 Ein HF-Leistungsverstärker hat eine Ver-stärkung von 16 dB. Welche HF-Ausgangs-leistung ist zu erwarten, wenn der Verstär-ker mit 1 W HF-Eingangsleistung angesteu-ert wird? 	A 40 W 
+TG303 Die Ausgangsleistung eines Senders ist 	A die unmittelbar nach dem Senderausgang messbare Leistung, bevor sie Zusatzgeräte (z.B. Anpassgeräte) durchläuft. 
+TG304 Die Spitzenleistung eines Senders ist die 	A HF-Leistung bei der höchsten Spitze der Hüll-kurve. 
+TG305 Eine Verdopplung der Leistung entspricht wie viel dB? 	A 3 d
+TG306 Die Ausgangsleistung eines FM-Senders 	A wird nicht durch die Modulation beeinflusst. 
+TG307 Wie wird in der Regel die hochfrequente Ausgangsleistung eines SSB-Senders ver-mindert? 	A Durch die Verringerung der NF- Ansteuerung und/oder durch Einfügung eines Dämpfungs-gliedes zwischen Steuersender und Endstufe. 
+TG401 Was kann man tun, wenn der Hub bei einem Handfunkgerät oder Mobil-Transceiver zu groß ist? 	A Leiser ins Mikrofon sprechen 
+TG402 In welcher der folgenden Antworten sind Betriebsarten üblicher Kurzwellen-Transceiver aufgezählt? 	A USB, LSB, FM, AM, CW 
+TG403 Wenn man beim Funkbetrieb mit einem Transceiver die Empfangsfrequenz gegen-über der Senderfrequenz geringfügig ver-stellen möchte, muss man 	A die RIT bedienen. 
+TG404 Wie wird die Taste am Mikrofon bezeichnet, mit der man einen Transceiver auf Sendung schalten kann? 	A PTT 
+TG405 Wie wird der Funkbetrieb bezeichnet, bei dem man einen Transceiver allein durch die Stimme auf Sendung schalten kann? 	A VOX-Betrieb 
+TG501 Wodurch werden Tastklicks bei einem CW-Sender hervorgerufen? 	A Durch zu steile Flanken der Tastimpulse 
+TG502 Welches Filter wäre zwischen Senderaus-gang und Antenne eingeschleift am besten zur Verringerung der Oberwellenausstrah-lungen geeignet? 	A Ein Tiefpassfilter 
+TG503 Um Nachbarkanalstörungen zu minimieren, sollte die Übertragungsbandbreite bei SSB  	A höchstens 3 kHz betragen. 
+TG504 Welche Schaltung wäre zwischen Sender-ausgang und Antenne eingeschleift am bes-ten zur Verringerung der Oberwellenaus-strahlungen geeignet? 	A  C 
+TG505 Bei der erstmaligen Prüfung eines Senders sollten die Signale zunächst 	A in eine künstliche 50-Ω-Antenne eingespeist werden. 
+TG506 Welche Filtercharakteristik würde sich am besten für einen KW-Mehrband-Sender eig-nen? 	A  C 
+TH101 Was sind typische Kurzwellen-Amateurfunk-sendeantennen? 	A Langdraht-Antenne, Groundplane-Antenne, Yagiantenne, Dipolantenne, Windom-Antenne, Delta-Loop-Antenne 
+TH102 Welche Antennenformen werden im VHF-UHF-Bereich bei den Funkamateuren in der Regel nicht verwendet? 	A Langdraht-Antennen 
+TH103 Welche magnetischen Antennen eignen sich für Sendebetrieb und strahlen dabei im Nah-feld ein starkes magnetisches Feld ab? 	A Magnetische Ringantennen mit einem Umfang von etwa λ/10. 
+TH104 Berechnen Sie die elektrische Länge eines 5/8-λ-langen Vertikalstrahlers für das 10-m-Band (28,5 MHz).  	A 6,58 m 
+TH105 Sie wollen verschiedene Antennen testen, ob sie für den Funkbetrieb auf Kurzwelle für das 80-m-Band geeignet sind. Man stellt Ihnen jeweils drei Antennen zur Verfügung. Welches Angebot wählen sie, um nur die drei besonders geeigneten Antennen testen zu müssen? 	A Dipol, Delta-Loop, W3DZZ-Antenne 
+TH106 Welche Antenne gehört nicht zu den sym-metrischen Antennen? 	A Groundplane 
+TH107 Wie nennt man eine Schleifenantenne, die aus drei gleich langen Drahtstücken be-steht? 	A Delta-Loop-Antenne 
+TH108 Bei welcher Länge hat eine Vertikalantenne die günstigsten Strahlungseigenschaften? 	A 5λ/8 
+TH109 Eine Vertikalantenne erzeugt 	A einen flachen Abstrahlwinkel. 
+TH110 Sie wollen eine Zweibandantenne für 160 und 80 m selbst bauen.   Welche der folgenden Antworten enthält die richtige Drahtlänge l zwischen den Schwingkreisen und die richtige Resonanz-frequenz fres der Kreise? 	A l beträgt zirka 40 m, fres liegt bei zirka 3,65 MHz. 
+TH111 Die elektrischen Gegengewichte einer Groundplane-Antenne bezeichnet man auch als 	A Radiale. 
+TH112 Das folgende Bild enthält eine einfache Richtantenne.   Die Bezeichnungen der Elemente in numeri-scher Reihenfolge lauten 	A 1 Reflektor, 2 Strahler und 3 Direktor. 
+TH113 An welchem Element einer Yagi-Antenne erfolgt die Energieeinspeisung? Sie erfolgt am 	A Strahler 
+TH201 Welche elektrische Länge muss eine Dipol-antenne haben, damit sie in Resonanz ist? 	A Sie muss ein ganzzahliges Vielfaches von λ/2 betragen. (n · λ/2, n=1, 2, 3...) 
+TH202 Welches Strahlungsdiagramm ist der An-tenne richtig zugeordnet? 	A  Dipol 
+TH203 Welchen Eingangs- bzw. Fußpunktwider-stand hat die Groundplane? 	A ca. 30 ... 50 Ω 
+TH204 Die Impedanz in der Mitte eines Halbwellen-dipols beträgt je nach Aufbauhöhe ungefähr 	A 40 bis 80 Ω. 
+TH205 Ein Faltdipol hat einen Eingangswiderstand von ungefähr 	A 240 Ω. 
+TH206 Ein Halbwellendipol wird auf der Grundfre-quenz in der Mitte 	A stromgespeist. 
+TH207 Welcher Prozentsatz entspricht dem Korrek-turfaktor, der üblicherweise für die Berech-nung der Länge einer Drahtantenne verwen-det wird? 	A 95 % 
+TH208 Das folgende Bild enthält verschiedene UKW-Vertikalantennen.   In welcher der folgenden Zeilen ist die ent-sprechende Bezeichnung der Antenne rich-tig zugeordnet? 	A Bild 1 zeigt einen λ/4-Vertikalstrahler (Viertel-wellenstab). 
+TH209 Das folgende Bild enthält verschiedene UKW-Antennen.   Welche der folgenden Antworten ist richtig? 	A Bild 1 zeigt eine horizontal polarisierte Yagi-Antenne. 
+TH210 Eine Drahtantenne für den Amateurfunk im KW-Bereich 	A kann eine beliebige Länge haben. 
+TH301 Am Ende einer Leitung ist nur noch ein Vier-tel der Leistung vorhanden. Wie groß ist das Dämpfungsmaß des Kabels? 	A 6 d
+TH302 Am Ende einer Leitung ist nur noch ein Zehntel der Leistung vorhanden. Wie groß ist das Dämpfungsmaß des Kabels? 	A 10 d
+TH303 Eine HF-Ausgangleistung von 100 W wird in eine angepasste Übertragungsleitung ein-gespeist. Am antennenseitigen Ende der Leitung beträgt die Leistung 50 W bei einem Stehwellenverhältnis von 1:1. Wie hoch ist die Leitungsdämpfung? 	A 3 d
+TH304 Welcher der nachfolgenden Zusammenhän-ge ist richtig? 	A 0 dBm entspricht 1 mW; 3 dBm entspricht 2 mW; 20 dBm entspricht 100 mW 
+TH305 Welche Dämpfung hat ein 25 m langes Ko-axkabel vom Typ Aircell 7 bei 145 MHz? (siehe hierzu beiliegendes Diagramm) 	A 1,9 d
+TH306 Welche Dämpfung hat ein 20 m langes Ko-axkabel vom Typ RG 58 bei 29 MHz? (siehe hierzu beiliegendes Diagramm) 	A 1,8 d
+TH307 Der Wellenwiderstand einer Leitung 	A ist im HF-Bereich in etwa konstant und unab-hängig vom Leitungsabschluss. 
+TH308 Koaxialkabel weisen typischerweise Wel-lenwiderstände von 	A 50, 60 und 75 Ω auf. 
+TH309 Welche Vorteile hat eine Paralleldraht-Speiseleitung gegenüber der Speisung über ein Koaxialkabel? 	A Sie hat geringere Dämpfung und hohe Span-nungsfestigkeit. 
+TH310 Wann ist eine Speiseleitung unsymmet-risch? 	A Wenn die beiden Leiter unterschiedlich geformt sind, z.B. Koaxialkabel. 
+TH311 Welche Leitungen sollten für die HF-Verbindungen zwischen Einrichtungen in der Amateurfunkstelle verwendet werden, um unerwünschte Abstrahlungen zu ver-meiden? 	A Hochwertige Koaxialkabel. 
+TH312 Welches der folgenden Koaxsteckverbin-dersysteme ist für sehr hohe Frequenzen (70-cm-Band) und hohe Leistungen am bes-ten geeignet? 	A N 
+TH401 Bei welchem Stehwellenverhältnis (VSWR) ist eine Antenne am besten an die Leitung angepasst? 	A 1 
+TH402 Fehlanpassungen oder Beschädigungen von HF-Übertragungsleitungen 	A führen zu Reflektionen des übertragenen HF-Signals und einem erhöhten VSWR. 
+TH403 Welche Auswirkungen hat es, wenn eine symmetrische Antenne (Dipol) mit einem Koaxkabel gleicher Impedanz gespeist wird? 	A Die Richtcharakteristik der Antenne wird ver-formt und es können Mantelwellen auftreten. 
+TH404 Ein symmetrischer Halbwellendipol wird direkt über ein Koaxialkabel von einem Sen-der gespeist. Das Kabel ist senkrecht am Haus entlang verlegt und verursacht geringe Störungen. Um das Problem weiter zu ver-ringern, empfiehlt es sich 	A den Dipol über ein Symmetrierglied zu speisen. 
+TH405 Auf einem Ferritkern sind etliche Windungen Koaxial-kabel aufgewickelt. Diese Anordnung kann dazu die-nen,  	A Mantelwellen zu dämpfen. 
+TH406 Am Eingang einer Antennenleitung misst man ein VSWR von 3. Wie groß ist in etwa die rücklaufende Leistung am Messpunkt, wenn die vorlaufende Leistung dort 100 Watt beträgt? 	A 25 W 
+TI101 Welche ionosphärischen Schichten bestim-men die Funkwellenausbreitung am Tage? 	A Die D-, E-, F1- und F2-Schicht 
+TI102 Welche ionosphärischen Schichten bestim-men die Fernausbreitung in der Nacht? 	A Die F2-Schicht 
+TI103 In welcher Höhe befinden sich die für die Fernausbreitung (DX) wichtigen ionosphäri-schen Schichten? Sie befinden sich in unge-fähr 	A 200 bis 500 km Höhe. 
+TI104 Welchen Einfluss hat die D-Schicht auf die Fernausbreitung? 	A Die D-Schicht führt tagsüber zu starker Dämp-fung im 80- und 160-m-Band. 
+TI105 Wie kommt die Fernausbreitung einer Funkwelle auf den Kurzwellenbändern zu-stande? Sie kommt zustande durch die Re-flexion an 	A elektrisch aufgeladenen Luftschichten in der Ionosphäre. 
+TI106 Welche Schicht ist für die gute Ausbreitung im 10-m-Band in den Sommermonaten ver-antwortlich? 	A Die E-Schicht 
+TI107 Die Sonnenfleckenzahl ist einem regelmäßi-gen Zyklus unterworfen. Welchen Zeitraum hat dieser Zyklus zirka? 	A 11 Jahre 
+TI201 Die Ausbreitungsgeschwindigkeit freier elektromagnetischer Wellen beträgt etwa 	A 300 000 km/s. 
+TI202 Unter der "Toten Zone" wird der Bereich verstanden, 	A der durch die Bodenwelle nicht mehr erreicht wird und durch die reflektierte Raumwelle noch nicht erreicht wird. 
+TI203 Welche der folgenden Aussagen trifft für KW-Funkverbindungen zu, die über Boden-wellen erfolgen? 	A Die Bodenwelle folgt der Erdkrümmung und geht über den geografischen Horizont hinaus. Sie wird in höheren Frequenzbereichen stärker gedämpft als in niedrigeren Frequenzbereichen.
+TI204 Wie groß ist in etwa die maximale Entfer-nung, die ein KW-Signal bei Reflexion an der E-Schicht auf der Erdoberfläche mit einem Sprung (Hop) überbrücken kann? 	A Etwa 2200 km 
+TI205 Von welchem der genannten Parameter ist die Sprungdistanz abhängig, die ein KW-Signal auf der Erdoberfläche überbrücken kann? Sie ist abhängig  	A vom Abstrahlwinkel der Antenne. 
+TI206 Bei der Ausbreitung auf Kurzwelle spielt die so genannte "Grey Line" eine besondere Rolle. Was ist die "Grey Line"? 	A Der Streifen der Dämmerungsphase vor Son-nenaufgang oder nach Sonnenuntergang. 
+TI207 Was versteht man unter dem Begriff "Mögel-Dellinger-Effekt"? 	A Den totalen, zeitlich begrenzten Ausfall der Reflexion in der Ionosphäre. 
+TI208 Ein plötzlicher Anstieg der Intensitäten von UV- und Röntgenstrahlung nach einem  Flare (Energieausbruch auf der Sonne) führt zu erhöhter Ionisierung der D-Schicht und damit zu kurzzeitigem Totalausfall der io-nosphärischen Kurzwellenausbreitung. Diese Erscheinung wird auch als  	A Mögel-Dellinger-Effekt bezeichnet. 
+TI209 Unter dem Begriff "Short Skip" versteht man Funkverbindungen besonders im 10-m-Band mit Sprungentfernungen unter 1000 km, die 	A durch Reflexion an sporadischen E-Schichten ermöglicht werden. 
+TI210 Warum sind Signale im 160- und 80-Meter-Band tagsüber nur schwach und nicht für den weltweiten Funkverkehr geeignet? Sie sind ungeeignet wegen der Tagesdämpfung in der 	A D-Schicht 
+TI211 In welcher ionosphärischen Schicht treten gelegentlich Aurora-Erscheinungen auf? 	A In der E-Schicht 
+TI212 Was bedeutet die „MUF“ bei der Kurzwel-lenausbreitung? 	A Höchste brauchbare Frequenz 
+TI213 Wie nennt man den ionosphärischen Feld-stärkeschwund durch Überlagerung von Boden- und Raumwelle, der sich bei der Kurzwellenausbreitung besonders bei AM-Sendungen bemerkbar macht? 	A Fading 
+TI301 Wie weit etwa reicht der Funkhorizont im UKW-Bereich über den geografischen Hori-zont hinaus? Er reicht etwa 	A 15 % weiter als der geografische Horizont. 
+TI302 Überhorizontverbindungen im UHF/VHF-Bereich kommen u.a. zustande durch 	A Streuung der Wellen an troposphärischen Be-reichen unterschiedlicher Beschaffenheit. 
+TI303 Für VHF-Weitverkehrsverbindungen wird hauptsächlich die 	A troposphärische Ausbreitung genutzt. 
+TI304 Was ist die "Troposphäre"?  Die Troposphäre ist der 	A untere Teil der Atmosphäre, in der die Erschei-nungen des Wetters stattfinden. 
+TI305 Wie wirkt die Antennenhöhe auf die Reich-weite einer UKW-Verbindung aus? Die Reichweite steigt mit zunehmender Anten-nenhöhe, weil  	A die optische Sichtweite zunimmt. 
+TI306 Was ist die Ursache für Aurora-Erschei-nungen? Die Ursache ist 	A das Eindringen geladener Teilchen von der Sonne in die Atmosphäre. 
+TI307 Wie wirkt sich "Aurora" auf die Signalquali-tät eines Funksignals aus? 	A CW-Signale haben einen flatternden und ver-brummten Ton. 
+TI308 Welche Betriebsart eignet sich am besten für Auroraverbindungen? 	A CW 
+TI309 Was verstehen Sie unter dem Begriff "Spo-radic-E"? Ich verstehe darunter 	A die Reflexion an lokal begrenzten Bereichen mit ungewöhnlich hoher Ionisation innerhalb der E-Schicht. 
+TI310 In dem folgenden Geländeprofil sei S ein Sender im 2-m-Band, E1 bis E4 vier Emp-fangsstationen. Welche Funkstrecke geht wahrscheinlich am besten, welche am schlechtesten?  	A Am besten S-E3, am schlechtesten S-E1 
+TJ101 Das Prinzip eines Drehspulmessgeräts be-ruht auf 	A der Wechselwirkung der Kräfte zwischen einem permanent magnetischen und einem elektro-magnetischen Feld. 
+TJ102 Die Auflösung eines Messinstrumentes entspricht 	A der kleinsten Einteilung der Anzeige. 
+TJ103 Was ist ein Dipmeter? Ein Dipmeter ist 	A ein abstimmbarer Oszillator mit einem Indikator, der anzeigt, wenn von einem ankoppelten Re-sonanzkreis bei einer Frequenz HF-Energie aufgenommen oder abgegeben wird. 
+TJ104 Wozu wird ein Dipmeter beispielsweise ver-wendet? Ein Dipmeter wird zur 	A ungefähren Bestimmung der Resonanzfre-quenz eines Schwingkreises. 
+TJ105 Welches dieser Messgeräte ist für die Er-mittlung der Resonanzfrequenz eines Traps, das für einen Dipol genutzt werden soll, am besten geeignet? 	A Ein Dipmeter 
+TJ106 Wie ermittelt man die Resonanzfrequenz eines Schwingkreises? Man ermittelt sie 	A durch Messung von L und C und Berechnung oder z.B. mit einem Dipmeter. 
+TJ107 Für welche Messungen verwendet man ein Oszilloskop? Ein Oszilloskop verwendet man, um 	A Signalverläufe sichtbar zu machen, um bei-spielsweise Verzerrungen zu erkennen. 
+TJ108 Welches dieser Geräte wird für die Anzeige von NF-Verzerrungen verwendet? 	A Ein Oszilloskop 
+TJ109 Eine künstliche Antenne für den VHF-Bereich könnte beispielsweise aus 	A ungewendelten Kohleschichtwiderständen zusammengebaut sein. 
+TJ110 Welche der folgenden Bauteile könnten für eine genaue künstliche Antenne, die bei 28 MHz eingesetzt werden soll, verwendet werden? 	A 10 Kohleschichtwiderstände von 500 Ω 
+TJ201 Welche Schaltung könnte dazu verwendet werden, den Wert eines Widerstandes an-hand des ohmschen Gesetzes zu ermitteln? 	A  C 
+TJ202 Wie werden elektrische Spannungsmesser an Messobjekte angeschlossen und welche Anforderungen muss das Messgerät erfül-len, damit der Messfehler möglichst gering bleibt? 	A Der Spannungsmesser ist parallel zum Mess-objekt anzuschließen und sollte hochohmig sein. 
+TJ203 Die Zeitbasis eines Oszilloskops ist so ein-gestellt, dass ein Skalenteil 0,5 ms ent-spricht. Welche Frequenz hat die angelegte Spannung?  	A 250 Hz. 
+TJ204 Für welchen Zweck wird eine Stehwellen-messbrücke verwendet? 	A Zur Überprüfung der Anpassung des Senders an die Antenne. 
+TJ205 Welche Spannung wird bei dem folgenden Messinstrument angezeigt, wenn dessen Messbereich auf 10 V eingestellt ist? 	A 2,93 V 
+TJ206 An welcher Stelle einer Antennenanlage muss ein VSWR-Meter eingeschleift werden, um Aussagen über die Antenne selbst ma-chen zu können? Das VSWR-Meter muss eingeschleift werden zwischen 	A Antennenkabel und Antenne. 
+TJ207 Ein Stehwellenmessgerät wird in ein ideal angepasstes Sender-/Antennensystem ein-geschleift. Das Messgerät sollte 	A ein Stehwellenverhältnis von 1 anzeigen. 
+TJ208 Welches dieser Messgeräte ist für genaue Frequenzmessungen am besten geeignet? 	A Ein Frequenzzähler 
+TJ209 Wie misst man das Stehwellenverhältnis? Man misst es 	A mit einer VSWR-Messbrücke. 
+TJ210 Ein Stehwellenmessgerät wird eingesetzt bei Sendern zur Messung 	A der Antennenanpassung. 
+TJ211 An welchem Punkt sollte das Stehwellen-messgerät eingeschleift werden, um zu prüfen, ob der Sender gut an die Antennen-anlage angepasst ist? 	A Punkt 1 
+TK101 Wie äußert sich Zustopfen bzw. Blockierung eines Empfängers? 	A Durch den Rückgang der Empfindlichkeit und ggf. das Auftreten von Brodelgeräuschen. 
+TK102 Welche Effekte werden durch Intermodulati-on hervorgerufen? 	A Es treten Phantomsignale auf, die bei Einschal-ten eines Abschwächers verschwinden. 
+TK103 Welche Reaktion ist angebracht, wenn Stö-rungen im TV-Rundfunk beim Nachbarn nicht mit den zur Verfügung stehenden Mit-teln beseitigt werden können? 	A Sie empfehlen dem Nachbarn höflich, sich an die Bundesnetzagentur zur Prüfung der Stö-rungsursache zu wenden. 
+TK104 Bei der Überprüfung des Ausgangssignals eines  Senders  sollte  die  Dämpfung  der Oberwellen mindestens 	A den geltenden Richtwerten entsprechen. 
+TK105 In welchem Fall spricht man von Einströ-mungen bei EMV? Einströmungen liegen dann vor, wenn die HF  	A über Leitungen oder Kabel in das zu überprü-fende Gerät gelangt. 
+TK106 In welchem Fall spricht man von Einstrah-lungen bei EMV? Einstrahlungen liegen dann vor, wenn die HF  	A über das ungenügend abgeschirmte Gehäuse in die Elektronik gelangt. 
+TK107 Wie nennt man die elektromagnetische Stö-rung, die durch die Aussendung des reinen Nutzsignals beim Empfang anderer Fre-quenzen in benachbarten Empfängern auf-treten kann? 	A Blockierung oder störende Beeinflussung 
+TK201 Wie kommen Geräusche aus den Lautspre-chern einer abgeschalteten Stereoanlage möglicherweise zustande? 	A Durch Gleichrichtung starker HF-Signale in der NF-Endstufe der Stereoanlage. 
+TK202 Ein Fernsehgerät wird durch das Nutzsignal einer KW-Amateurfunkstelle gestört. Wie dringt das Signal mit größter Wahrschein-lichkeit in das Fernsehgerät ein? 	A Über jeden beliebigen Leitungsanschluss und/oder über die ZF-Stufen. 
+TK203 Die Übersteuerung eines Leistungsverstär-kers führt zu 	A einem hohen Nebenwellenanteil. 
+TK204 Die gesamte Bandbreite einer FM-Übertragung beträgt 15 kHz. Wie nah an der Bandgrenze kann ein Träger übertragen werden, ohne dass Außerbandaussendun-gen erzeugt werden? 	A 7,5 kHz. 
+TK301 Durch welche Maßnahme kann die übermä-ßige Bandbreite einer 2-m-FM-Übertragung verringert werden? Sie kann verringert wer-den durch die Änderung der 	A Hubeinstellung 
+TK302 Ein Sender sollte so betrieben werden, dass 	A er keine unerwünschten Aussendungen hervor-ruft. 
+TK303 Durch eine Mantelwellendrossel in einem Fernseh-Antennenzuführungskabel 	A werden Gleichtakt-HF-Störsignale unterdrückt. 
+TK304 Ein Funkamateur wohnt in einem Reihen-haus. An welcher Stelle sollte die KW-Draht-antenne angebracht werden, um störende Beeinflussungen auf ein Mindestmaß zu begrenzen? 	A Rechtwinklig zur Häuserzeile mit abgewandter Strahlungsrichtung 
+TK305 Beim Betrieb Ihres 2-m-Senders wird bei einem Ihrer Nachbarn ein Fernsehempfän-ger gestört, der mit einer Zimmerantenne betrieben wird. Zur Behebung des Problems schlagen Sie dem Nachbarn vor, 	A eine außen angebrachte Fernsehantenne zu installieren. 
+TK306 Die Bemühungen, die durch eine in der Nä-he befindliche Amateurfunkstelle hervorge-rufenen Fernsehstörungen zu verringern, sind fehlgeschlagen. Als nächster Schritt ist 	A die zuständige Außenstelle der Bundesnetz-agentur um Prüfung der Gegebenheiten zu bitten. 
+TK307 Um die Störwahrscheinlichkeit zu verrin-gern, sollte die benutzte Sendeleistung 	A auf das für eine zufrieden stellende Kommuni-kation erforderliche Minimum eingestellt wer-den. 
+TK308 Welches Filter sollte im Störungsfall für die Dämpfung von Kurzwellensignalen in ein Fernsehantennenkabel eingeschleift wer-den? 	A Ein Hochpassfilter 
+TK309 Was sollte zur Herabsetzung starker Signale eines 28-MHz-Senders in das Fernseh-Antennenzuführungskabel eingeschleift werden? 	A Ein Hochpassfilter 
+TK310 Welche Filter sollten im Störungsfall vor die einzelnen Leitungsanschlüsse eines UKW- oder Fernsehrundfunkgeräts oder ange-schlossener Geräte eingeschleift werden, um Kurzwellensignale zu dämpfen? 	A Ein Hochpassfilter vor dem Antennennan-schluss und zusätzlich je eine Ferritdrossel vor alle Leitungsanschlüsse der gestörten Geräte. 
+TK311 Die Signale eines 144-MHz-Senders werden in das Koax-Antennenkabel eines FM-Rund-funkempfängers induziert und verursachen Störungen. Eine Möglichkeit zur Verringe-rung der Störungen besteht darin, 	A eine Mantelwellendrossel einzubauen. 
+TK312 Um die Störwahrscheinlichkeit im eigenen Haus zu verringern, empfiehlt es sich vor-zugsweise 	A eine getrennte HF-Erdleitung zu verwenden. 
+TK313 Bei der Hi-Fi-Anlage des Nachbarn wird Ein-strömung in die NF-Endstufe festgestellt. Eine mögliche Abhilfe wäre 	A geschirmte Lautsprecherleitungen zu verwen-den. 
+TK314 Eine KW-Amateurfunkstelle verursacht im Sendebetrieb in einem in der Nähe betrie-benen Fernsehempfänger Störungen. Wel-ches Filter schleifen Sie in das Fernsehan-tennenkabel ein, um die Störwahrschein-lichkeit zu verringern? 	A  C 
+TK315 Bei einem Wohnort in einem Ballungsgebiet empfiehlt es sich, während der abendlichen Fernsehstunden 	A mit keiner höheren Leistung zu senden als für eine sichere Kommunikation erforderlich ist. 
+TK316 Falls sich eine Antenne in der Nähe und parallel zu einer 230-V-Wechselstrom-Frei-leitung befindet, 	A können Hochfrequenzströme eingekoppelt werden. 
+TK317 Eine 435-MHz-Sendeantenne mit hohem Ge-winn ist unmittelbar auf eine UHF-Fernseh-Empfangsantenne gerichtet. Dies führt ge-gebenenfalls zu 	A einer Übersteuerung eines TV-Empfängers. 
+TK318 Im Mittelwellenbereich ergeben sich häufig Spiegelfrequenzstörungen durch 	A Sender im 160-m-Band. 
+TK319 Ein korrodierter Anschluss an der Fernseh-Empfangsantenne des Nachbarn 	A kann in Verbindung mit dem Signal naher Sen-der unerwünschte Mischprodukte erzeugen, die den Fernsehempfang stören. 
+TL101 Um eine Amateurfunkstelle in Bezug auf EMV zu optimieren 	A sollten alle Einrichtungen mit einer guten HF-Erdung versehen werden. 
+TL201 Nach welcher der Antworten kann die ERP (Effective Radiated Power) berechnet wer-den, und worauf ist die ERP bzw. der zu verwendende Antennengewinn bezogen? 	A PERP = (PSender – PVerluste) · GAntenne  bezogen auf einen Halbwellendipol 
+TL202 Nach welcher der Antworten kann die EIRP berechnet werden, und worauf ist die EIRP bzw. der zu verwendende Antennengewinn bezogen? 	A PEIRP = (PSender – PVerluste) · GAntenne  bezogen auf einen isotropen Kugelstrahler 
+TL203 Was versteht man unter dem Begriff "EIRP"? 	A Es ist das Produkt aus der zugeführten Leis-tung und dem Gewinnfaktor der Antenne und stellt die Leistung dar, die man einem isotropen Strahler zuführen müsste, damit dieser im Fern-feld dieselbe elektrische Feldstärke erzeugte, wie die Antenne. 
+TL204 Ein Sender mit 0,6 Watt Ausgangsleistung ist über eine Antennenleitung, die 1 dB Ka-belverluste hat, an eine Richtantenne mit 11 dB Gewinn (auf Dipol bezogen) angeschlos-sen. Welche EIRP wird von der Antenne maximal abgestrahlt? 	A 9,8 Watt 
+TL205 Ein Sender mit 5 Watt Ausgangsleistung ist über eine Antennenleitung, die 2 dB Kabel-verluste hat, an eine Antenne mit 5 dB Ge-winn (auf Dipol bezogen) angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt? 	A 16,4 Watt 
+TL206 Ein Sender mit 75 Watt Ausgangsleistung ist über eine Antennenleitung, die 2,15 dB (Fak-tor 1,64) Kabelverluste hat, an eine Dipol-Antenne angeschlossen. Welche EIRP wird von der Antenne maximal abgestrahlt? 	A 75 Watt 
+TL207 Muss ein Funkamateur als Betreiber einer ortsfesten Amateurfunkstelle bei der Sende-art F3E und einer Senderleistung von 6 Watt an einer 15-Element-Yagiantenne mit 13 dB Gewinn für 2 m die Einhaltung der Perso-nenschutzgrenzwerte nachweisen? 	A Ja, er ist in diesem Fall verpflichtet die Einhal-tung der Personenschutzgrenzwerte nachzu-weisen. 
+TL208 Sie besitzen einen λ/4-Vertikalstrahler. Da Sie für diese Antenne keine Selbsterklärung abgeben möchten und somit nur eine Strah-lungsleistung von kleiner 10 W EIRP ver-wenden dürfen, müssen Sie die Sendeleis-tung soweit reduzieren, dass sie unter die-sem Wert bleiben. Wie groß darf die Sende-leistung dabei sein? 	A kleiner 3 Watt (Zuleitungsverluste vernachläs-sigt) 
+TL209 Sie möchten den Personenschutz-Sicher-heitsabstand für die Antenne Ihrer Amateur-funkstelle für das 10-m-Band und die Be-triebsart RTTY berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben einen Dipol, der von einem Sender mit einer Leistung von 100 W über ein Koaxialkabel gespeist wird. Die Kabel-dämpfung sei vernachlässigbar. Wie groß muss der Sicherheitsabstand sein? 	A 2,50 m 
+TL210 Sie möchten den Personenschutz-Sicher-heitsabstand für die Antenne Ihrer Amateur-funkstelle für das 10-m-Band und die Be-triebsart FM berechnen. Der Grenzwert im Fall des Personenschutzes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 7,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 100 W über ein langes Koaxialkabel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsabstand sein? 	A 5,01 m 
+TL211 Sie möchten den Personenschutz-Sicher-heitsabstand für die Antenne Ihrer Amateur-funkstelle in Hauptstrahlrichtung für das 2-m-Band und die Betriebsart FM berechnen. Der Grenzwert im Fall des Personenschut-zes beträgt 28 V/m. Sie betreiben eine Yagi-Antenne mit einem Gewinn von 11,5 dBd. Die Antenne wird von einem Sender mit einer Leistung von 75 W über ein Koaxialka-bel gespeist. Die Kabeldämpfung beträgt 1,5 dB. Wie groß muss der Sicherheitsab-stand sein? 	A 6,86 m 
+TL212 Sie errechnen einen Sicherheitsabstand für Ihre Antenne. Von welchem Punkt aus muss dieser Sicherheitsabstand eingehalten wer-den, wenn Sie bei der Berechnung die Fern-feldnäherung verwendet haben? 	A Von jedem Punkt der Antenne 
+TL213 Mit welcher Ausgangsleistung rechnen Sie im Fall des Personenschutzes, um den Si-cherheitsabstand zu ermitteln? 	A Mit dem Mittelwert der Ausgangsleistung gemit-telt über ein Intervall von 6 Minuten. 
+TL214 Herzschrittmacher können auch durch die Aussendung einer Amateurfunkstelle beein-flusst werden. Gibt es einen zeitlichen Grenzwert für die Einwirkdauer? 	A Nein, die Feldstärke beeinflusst unmittelbar, also zeitunabhängig. 
+TL301 Unter welchen Bedingungen darf das Stand-rohr einer Amateurfunkantenne auf einem Gebäude mit einer vorhandenen Blitzschutz-anlage verbunden werden? 	A Wenn die vorhandene Blitzschutzanlage fach-gerecht aufgebaut ist und das Standrohr mit ihr auf dem kürzesten Wege verbunden werden kann. 
+TL302 Welches Material und welcher Mindestquer-schnitt ist bei einer Erdungsleitung zwi-schen einem Antennenstandrohr und einer Erdungsanlage nach DIN VDE 0855 Teil 300 für Funksender bis 1 kW zu verwenden? 	A Als geeigneter Erdungsleiter gilt ein Einzelmas-sivdraht mit einem Mindestquerschnitt von 16 mm2 Kupfer, isoliert oder blank, oder 25 mm2 Aluminium isoliert oder 50 mm2 Stahl. 
+TL303 Unter welchen Bedingungen darf ein Fun-damenterder als Blitzschutzerder verwendet werden? 	A Jeder ordnungsgemäß verlegte Fundamenter-der kann verwendet werden, sofern alle Blitz-schutzleitungen bis zur Potentialausgleichs-schiene getrennt geführt werden. 
+TL304 Welche Sicherheitsmaßnahmen müssen zum Schutz gegen atmosphärische Über-spannungen und zur Verhinderung von Spannungsunterschieden bei Koaxialkabel-Niederführungen ergriffen werden? 	A Die Außenleiter (Abschirmung) aller Koaxialka-bel-Niederführungen müssen über einen Poten-tialausgleichsleiter normgerecht mit Erde ver-bunden werden. 
+TL305 Welche der Antworten 	A bis D enthält die heutzutage normgerechten Adern-Kennfarben von 3-adrigen, isolierten Ener-gieleitungen und -kabeln in der Abfolge: Schutzleiter, Außenleiter, Neutralleiter? A grüngelb, braun, blau 
+TL306 Damit die Zulassung eines Kraftfahrzeugs nicht ungültig wird, sind vor dem Einbau einer mobilen Sende-/Empfangseinrichtung grundsätzlich 	A die Anweisungen des Kfz-Herstellers zu beach-ten. 
+TL307 Wo sollte aus funktechnischer Sicht eine mobile VHF-Antenne an einem PKW vor-zugsweise installiert werden? 	A Auf der Mitte des Daches. 
+TL308 Um ein Zusammenwirken mit der Elektronik des Kraftfahrzeugs zu verhindern, sollte das Antennenkabel 	A möglichst weit von der Fahrzeugverkabelung entfernt verlegt werden. 
