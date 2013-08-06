@@ -1,0 +1,92 @@
+P R B ?	Do you wish to communicate with my station by means of the International Signal Code?
+P R B	I wish to communicate with your station by means of the International Signal Code.
+Q R A ?	What is the name of your station?
+Q R A	This station is .......
+Q R B ?	How far are you from my station?
+Q R B	The distance between our stations is .... nautical miles.
+Q R C ?	What are your true bearings?
+Q R C	My true bearings are .... degrees.
+Q R D ?	Where are you bound?
+Q R D	I am bound for ...........
+Q R F ?	Where are you coming from?
+Q R F	I am coming from ..........
+Q R G ?	To what company or line of navigation do you belong?
+Q R G	I belong to ..........
+Q R H ?	What is your wavelength?
+Q R H	My wavelength is .... metres.
+Q R J ?	How many words have you to transmit?
+Q R J	I have .... words to transmit.
+Q R K ?	How are you receiving?
+Q R K	I am receiving well.
+Q R L ?	Are you receiving badly? Shall I transmit twenty times? ...-. so that you can adjust your apparatus? 
+Q R L	I am receiving badly. Transmit twenty times; ...-. so that I can adjust my apparatus. 
+Q R M ?	Are you disturbed?
+Q R M	I am disturbed.
+Q R N ?	Are the atmospherics very strong?
+Q R N	The atmospherics are very strong.
+Q R O ?	Shall I increase my power?
+Q R O	Increase your power.
+Q R P ?	Shall I decrease my power?
+Q R P	Decrease your power.
+Q R Q ?	Shall I transmit faster?
+Q R Q	Transmit faster.
+Q R S ?	Shall I transmit more slowly?
+Q R S	Transmit more slowly.
+Q R T ?	Shall I stop transmitting?
+Q R T	Stop transmitting.
+Q R U ?	Have you anything for me?
+Q R U	I have nothing for you.
+Q R V ?	Are you ready?
+Q R V	I am ready. All is in order.
+Q R W ?	Are you busy?
+Q R W	I am busy with another station
+Q R X ?	Shall I wait?
+Q R X	Wait. I will call you at .... o'clock [or: when I want you].
+Q R Y ?	What is my turn?
+Q R Y	Your turn is No. ....
+Q R Z ?	Are my signals weak?
+Q R Z	Your signals are weak.
+Q S A ?	Are my signals strong?
+Q S A	Your signals are strong.
+Q S C ?	Is the spacing bad?
+Q S C	The spacing is bad.
+Q S D ?	Let us compare watches. My time is .... What is your time?
+Q S D	The time is ....
+Q S F ?	Are the radiotelegrams to be transmitted alternately or in series?
+Q S F	Transmission will be in alternate order.
+Q S G	Transmission will be in series of five radiotelegrams. 
+Q S H	Transmission will be in series of ten radiotelegrams. 
+Q S J ?	What is the charge to collect for ....?
+Q S J	The charge to collect is ....
+Q S K ?	Is the last radiotelegram cancelled?
+Q S K	The last radiotelegram is cancelled.
+Q S L ?	Have you got the receipt?
+Q S L	Please give a receipt.
+Q S M ?	What is your true course?
+Q S M	My true course is .... degrees.
+Q S N ?	Are you communicating with land?
+Q S N	I am not communicating with land.
+Q S O ?	Are you in communication with another station [or: with ....]?
+Q S O	I am in communication with ......... [through the medium of .........].
+Q S P ?	Shall I signal to .......... that you are calling him?
+Q S P	Inform .......... that I am calling him.
+Q S Q ?	Am I being called by ..........?
+Q S Q	You are being called by ..........
+Q S R ?	Will you despatch the radiotelegram ....?
+Q S R	I will forward the radiotelegram.
+Q S T ?	Have you received a general call?
+Q S T	General call to all stations.
+Q S U ?	Please call me when you have finished
+Q S U	I will call you when I have finished. 
+Q S V ?	Is public correspondence engaged?
+Q S V	Public correspondence engaged. Please do not interrupt.
+Q S W ?	Must I increase the frequency of my spark?
+Q S W	Increase the frequency of your spark.
+Q S Y ?	Shall I transmit with a wavelength of .... metres?
+Q S Y	Let us change to the wavelength of ..... metres.
+Q S X ?	Shall I decrease my spark frequency?
+Q S X	Decrease your spark frequency.
+-.-.--.- (C Q)	Enquiry signal employed by a station which desires to correspond.
+-.-. (T R)	Signal announcing the sending of indications concerning a ship station (Article ....).
+--..-- (!)	Signal indicating that a station is about to send with high power.
+
