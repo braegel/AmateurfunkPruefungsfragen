@@ -1,0 +1,16 @@
+cw	continious wave / Morse-Telegrafie
+cq	Allgemeiner Anruf
+de	Deutsche Empfangsstation
+dem	Deutscher Empfangsmeister
+dok	Deutscher Ortsverbandkenner
+dld	Deutschland Diplom
+dx	distance
+ham	Funkamateur
+ok	okay
+om	old man
+op	operator
+ov	Ortsverband DARC
+pse	please
+vy	very
+yl	young lady
+73	best regards
