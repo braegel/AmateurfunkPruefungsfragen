@@ -1,0 +1,85 @@
+AC	alternating current
+af	audio frequency
+afsk	audio frequency shift keying
+agc	automatic gain control
+alc	automatic level control
+am	amplitude modulation
+ant	antenna
+aprs	automatic positioning system
+ardf	amateur radio direction finding
+avc	automatic volume control
+atv 	amateur television
+bbs	bulletin board system
+bci	broadcast interference
+bcl	broadcast listener
+bfo	beat frequency oscillator
+bpm	buchstabe pro minute
+bps	bits per second
+ccir	Int. Komitee für Funkfragen
+CCITT	Int. Komitee für Telefonie / Telegrafie
+CEPT	Europäische Konferenz der Verwaltungen für Post- und Fernmeldewesen
+co	crystal oscillator
+dc	direct current
+dsb	double sideband modulation
+dsp	digital signal processing
+eirp	equivalent isotropic radiated power
+eme	eartch moon earth
+emv	Elektromagnetische Verträglichkeit
+emvg	Gesetz über Elektromagnetische Verträglichkeit von Geräten
+emvu	Elektromagnetische Umweltverträgichkeit
+erp	equivalent radiated power
+esb	Einseitenband
+fet	field effect transistor
+fbas	Farb-, Bild-, Austast- und Synchron-Signal
+fm	frequency modulation
+fsk	frequency shift keying
+hf	high frequency
+iaru	International Amateur Radio Union
+irc	international reply coupon
+itu	International Telecommunication Union
+ip	intercept point
+lpm	letters per minute
+lsb	lower side band
+lw	long wire
+luf	lowest usable frequency
+msg	message
+muf	maximum usable frequency
+nf	Niederfrequenc
+oscar	orbiting satelite carrying amateur radio
+out	output
+pa	power amplififer
+pal	phase alternating line
+pbs	personal bulletin system
+pcm	pulse code modulation
+pep	peak envelope power
+pll	phase locked loop
+pm	phase modulation
+ppm	part per million
+psk	phase shift keying
+rf	radio frequency
+rfi	radio frequency interference
+rms	root mean square
+rtty	radio teletype
+rx	reciever
+sae	self addressed envelope
+sase	self addressed and stamped envelope
+shf	super high frequency
+ssb	single side band
+sstv	slow scan television
+swl	shot-wave listener
+swr	standing wave ratio
+ttl	transistor transistor logic
+tnc	terminal node controller
+tvi	television interference
+tx	transmitter
+trx	transciever
+uhf	ultra high frequence
+usb	upper side band
+utc	universal time coordinated
+vco	voltage controlled oscillator
+vfo	variable frequency oscillator
+vhf	very high frequency
+vox	voice control
+warc	world administrative radio conference
+wpm	words per minute
+wx	weather
